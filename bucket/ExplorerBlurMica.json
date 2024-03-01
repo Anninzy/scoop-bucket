@@ -1,6 +1,6 @@
 {
-	"version": "2.0.1",
-	"description": "Add acrylic effect to explorer",
+  "version": "2.0.1",
+  "description": "Add acrylic effect to explorer",
 	"homepage": "https://github.com/Maplespe/ExplorerBlurMica",
 	"license": "LGPL-3.0-only",
 	"depends": "gsudo",
