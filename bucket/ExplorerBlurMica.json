@@ -8,7 +8,7 @@
   },
   "checkver": "github",
   "extract_dir": "Release",
-  "post_install": "regsvr32 '$dir/ExplorerBlurMica.dll'",
-  "pre_uninstall": "regsvr32 /u '$dir/ExplorerBlurMica.dll'",
+  "post_install": "$dir/register.cmd",
+  "pre_uninstall": "$dir/uninstall.cmd",
   "url": "https://github.com/Maplespe/ExplorerBlurMica/releases/download/2.0.1/Release_x64.zip"
 }
