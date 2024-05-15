@@ -8,6 +8,6 @@
     },
     "checkver": "github",
     "url": [
-        "https://github.com/Vencord/Installer/releases/download/v1.4.0/VencordInstallerCli.exe",
+        "https://github.com/Vencord/Installer/releases/download/v1.4.0/VencordInstallerCli.exe"
     ]
 }
