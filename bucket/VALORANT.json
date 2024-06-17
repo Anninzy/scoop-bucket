@@ -4,8 +4,8 @@
     "homepage": "https://playvalorant.com",
     "license": "Unknown",
     "url": "https://valorant.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.live.eu.exe",
-    installer: {
-        args: "--skip-to-install",
-        keep: "false"
+    "installer": {
+        "args": "--skip-to-install",
+        "keep": "false"
     }
 }
