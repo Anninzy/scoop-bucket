@@ -9,7 +9,7 @@
     "checkver": "github",
     "url": "https://github.com/Vencord/Installer/releases/download/v1.4.0/VencordInstallerCli.exe",
     "installer": {
-        "args": " -branch auto -install",
+        "args": "-branch auto -install",
         "keep": "false"
     }
 }
