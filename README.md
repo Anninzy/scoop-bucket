@@ -10,4 +10,4 @@ I noticed some buckets (specifically https://github.com/okibcn/ScoopMaster) that
 
 ## Credits
 
-Thanks to kamack38 for their Chocolatey package for [Valorant](https://community.chocolatey.org/packages/valorant), used their download url and install arguments to write the VALORANT manifest.
+Thanks to kamack38 for their Chocolatey package for [VALORANT](https://community.chocolatey.org/packages/valorant), their download URL and install arguments were used to write the VALORANT manifest.
