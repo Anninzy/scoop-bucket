@@ -9,11 +9,6 @@
         }
     },
     "extract_dir": "librewolf",
-    "post_install": [
-        "Set-ItemProperty \"HKCU:\\Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\ftp\\UserChoice\" -name ProgId FirefoxURL",
-        "Set-ItemProperty \"HKCU:\\Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\http\\UserChoice\" -name ProgId FirefoxURL",
-        "Set-ItemProperty \"HKCU:\\Software\\Microsoft\\Windows\\Shell\\Associations\\UrlAssociations\\https\\UserChoice\" -name ProgId FirefoxURL"
-    ],
     "checkver": {
         "url": "https://gitlab.com/api/v4/projects/44042130/releases/permalink/latest",
         "jsonpath": "$.tag_name"
